@@ -20,6 +20,7 @@ def count_character_frequency(text):
 # ==========================================
 # Example Test Cases
 # ==========================================
+
 if __name__ == "__main__":
     print("--- Testing Function 1: filter_and_sort_evens ---")
     list_input = [3, 1, 4, 7, 1, 5, 9, 2, 6, 8]
