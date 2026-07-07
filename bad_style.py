@@ -1,3 +1,4 @@
+
 def calculate_area(length, width):
     result = length * width
     if result > 100:
