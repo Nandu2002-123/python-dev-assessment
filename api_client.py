@@ -1,6 +1,5 @@
 import requests
 
-
 def fetch_and_display_users(num_users):
     """
     Fetches user data from JSONPlaceholder API and displays name, email, and city.
@@ -55,6 +54,7 @@ def fetch_and_display_users(num_users):
 # ==========================================
 # TEST CASES
 # ==========================================
+
 if __name__ == "__main__":
     # Test case 1: Fetch 4 users
     fetch_and_display_users(4)
