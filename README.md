@@ -1,7 +1,7 @@
 
-
-#This repository is for my developer assessment tasks.
 #Python Developer Assessment
+This repository is for my developer assessment tasks.
+
 
 ## Project Overview
 This repository contains a series of tasks completed as part of the Python Developer Assessment Program. The project demonstrates proficiency in Python fundamentals, version control with Git, code styling, data structures, OOP, error handling, and API interaction.
