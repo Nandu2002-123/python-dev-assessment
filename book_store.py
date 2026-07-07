@@ -1,3 +1,8 @@
+"""
+Task 2.2: Object-Oriented Programming Assessment
+This module defines a Book class with attributes for title, author, ISBN,
+and publication year, including methods for age calculation and summaries.
+"""
 from datetime import datetime
 
 class Book:
