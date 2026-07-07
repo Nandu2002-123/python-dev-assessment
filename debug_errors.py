@@ -32,6 +32,7 @@ def get_list_element(my_list, index):
 # ==========================================
 # TEST CASES
 # ==========================================
+
 if __name__ == "__main__":
     # --- Part 1: Average Calculation Testing ---
     print("--- Testing calculate_average ---")
