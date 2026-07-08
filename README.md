@@ -1,10 +1,11 @@
 
-#Python Developer Assessment.
+#Python Developer Assessment
+This repository is for my developer assessment tasks.
 
-This repository is for my developer assessment tasks. 
 
 ## Project Overview
 This repository contains a series of tasks completed as part of the Python Developer Assessment Program. The project demonstrates proficiency in Python fundamentals, version control with Git, code styling, data structures, OOP, error handling, and API interaction.
+
 
 ## Completed Tasks
 - **Task 1.1:** Environment Setup & Hello World (`hello.py`)
@@ -43,6 +44,7 @@ This repository contains a series of tasks completed as part of the Python Devel
 # PEP 8 Compliance: All code is formatted with Black to ensure high readability and standard styling.
 # Defensive Programming: Functions include checks for empty lists and invalid data types to prevent runtime crashes.
 # Object-Oriented Design: Modeled real-world entities (Books) using classes with encapsulated methods for data retrieval.
+
 
 
 
